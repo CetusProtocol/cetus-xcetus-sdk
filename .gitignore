@@ -1,0 +1,13 @@
+node_modules/**/*
+.DS_Store
+dist/**/*
+yarn.lock
+/.vscode/
+package.test.json
+/examples/node_modules
+/examples/package-lock.json
+/examples/*.js
+/.husky
+.env
+dist
+node_modules
